@@ -1,0 +1,9 @@
+# Compiled Binaries
+*.exe
+
+# Object Files
+*.o
+
+# Dev-C++ Build & Layout Artifacts
+Makefile.win
+*.layout
