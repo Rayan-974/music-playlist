@@ -1,8 +1,3 @@
-I apologize for the confusion! I meant the text formatting box containing the README template in my previous response.
-
-Here is that exact content again. You can copy everything inside the box below and paste it into your `README.md` file:
-
-```markdown
 # 🎵 BeatFlow - C++ GUI Playlist Management System
 
 A dynamic, desktop music playlist management application developed in C++ using the Dev-C++ environment. The system integrates fundamental low-level **Data Structures (Doubly Linked Lists)** with a graphical rendering framework (`graphics.h`) to deliver an interactive user interface for organizing, sorting, and structural shuffling of audio tracks.
@@ -17,8 +12,6 @@ A dynamic, desktop music playlist management application developed in C++ using 
 - [Getting Started](#🔧-getting-started)
 - [Author](#-author)
 
----
-
 ## 🚀 Core Features
 * **Interactive Graphical UI:** Replaces standard command-line console printing with styled canvas rendering (`graphics.h`) featuring responsive, dynamic text updates.
 * **Persistent Playlist Operations:** Full support for real-time track allocation (insertion) and specific target pruning (deletion by Unique ID).
@@ -26,7 +19,7 @@ A dynamic, desktop music playlist management application developed in C++ using 
 * **Algorithmic Asset Ordering:** Native alphanumeric data mutations capable of restructuring structural chains dynamically into ascending, descending, or pseudo-random linear patterns.
 * **Custom Interactive Buffers:** Safe input parsing that prevents unexpected graphic loop drops by explicitly mapping backspace events (`ASCII 8`) and carriage returns (`ASCII 13`).
 
----
+
 
 ## 🧱 Underlying Data Architecture
 
@@ -143,15 +136,10 @@ Where the structural coefficients are mapped via explicit bitwise masks:
 2. Make sure compiler link options include parameters for the graphics sub-components (`-lbgi`, `-lgdi32`, `-lcomdlg32`, `-luuid`, `-loleaut32`, `-lole32`).
 3. Press **F11** to build compile targets and run the application window seamlessly.
 
----
 
 ## 🙋 Author
 
 **Rayan Ahmer** 
----
 
 ⭐ Star this repository if you found it helpful!
 
-```
-
-```
